@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Pagina Principal</title>
+  <!-- linea para aplicar el estilo creado -->
+  <link rel="stylesheet" href="/static/css/estilo.css"/>
+</head>
+
+<body>
+{% block encabezado %}
+<header>
+  <h2><img src="/static/images/toto.jpg" width = "85" height="100"> Block de Notas</h2>
+</header>
+<!-- <center></center> -->
+{% endblock %}
+
+{% block navega%}
+<nav>
+  <a href="/">Inicio</a> 
+  <a href="/about">Informacion</a>
+</nav>
+{% endblock %}
+
+{% block contenido%}
+{% endblock %}
+
+
+{% block pie %}
+<footer>
+  <center>
+    Colima, 17/11/2021
+  </center>
+</footer>
+{% endblock %}
+
+</body>
+</html>

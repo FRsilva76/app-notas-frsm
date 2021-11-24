@@ -1,0 +1,81 @@
+/*Estilos*/
+
+body {
+    background: linen;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+/*Encabezado*/
+header{
+    background: #00b8a9;
+    padding: 5px;
+}
+nav{
+    background: #B983FF;
+    padding: 10px;
+}
+
+/*Pie pagina*/
+footer{
+    background:#94DAFF;
+    padding: 30px;
+    margin-top: 130px; 
+}
+.columnas{
+    background: #77E4D4;
+    color:black;
+    padding: 5px;
+    width: 40%;
+    margin: 10px;
+}
+.columnas2{
+    background: mediumvioletred;
+    color:black;
+    padding: 5px;
+    width: 40%;
+    margin: 10px;
+}
+a{
+ font-size: 1.5em;   
+}
+/* #parrafos */ 
+p{
+    margin-left: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color:mediumblue;
+}
+/* #labes */ 
+label,input{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: black;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    color:mediumvioletred;
+    border-bottom: 1px solid black;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    color:black;
+    border-bottom: 1px solid black;
+}
+
+h3{font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color:black;
+    margin-left: 5px;
+}
+b{
+    font-family: cursive;
+    font-size: 1.5em;
+    color: black;
+}
+s{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color:purple;
+}

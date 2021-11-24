@@ -1,0 +1,4 @@
+# Este documentos es para que heroku encuentre la aplicacion
+# Para ingorar estos documentos
+venv/
+__pycache__/
